@@ -98,3 +98,4 @@ As Máquinas Virtuais do Azure oferecem flexibilidade, escalabilidade e controle
 
 ---
 
+(Imagens printadas durante a criação da VM e no final ela aberta, estarão na pasta Images do repositório, algumas informações serão tampadas, por prevenção)
